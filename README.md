@@ -105,7 +105,7 @@ endmodule
 
 
 
-**Result:**
+## Result:
 Thus program is verified.
 
 
