@@ -1,6 +1,6 @@
-### study-of-basic-
-# NAME: Dharshini.V
-# REG No: 212223040038
+# study-of-basic-
+## NAME: Dharshini.V
+## REG No: 212223040038
 
 **AIM:** 
 
